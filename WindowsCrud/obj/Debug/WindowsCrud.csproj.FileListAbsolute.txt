@@ -1,0 +1,22 @@
+C:\Users\NCS\source\repos\WindowsCrud\bin\Debug\WindowsCrud.exe.config
+C:\Users\NCS\source\repos\WindowsCrud\bin\Debug\WindowsCrud.exe
+C:\Users\NCS\source\repos\WindowsCrud\bin\Debug\WindowsCrud.pdb
+C:\Users\NCS\source\repos\WindowsCrud\obj\Debug\WindowsCrud.csproj.AssemblyReference.cache
+C:\Users\NCS\source\repos\WindowsCrud\obj\Debug\WindowsCrud.Form1.resources
+C:\Users\NCS\source\repos\WindowsCrud\obj\Debug\WindowsCrud.Properties.Resources.resources
+C:\Users\NCS\source\repos\WindowsCrud\obj\Debug\WindowsCrud.csproj.GenerateResource.cache
+C:\Users\NCS\source\repos\WindowsCrud\obj\Debug\WindowsCrud.csproj.CoreCompileInputs.cache
+C:\Users\NCS\source\repos\WindowsCrud\obj\Debug\WindowsCrud.exe
+C:\Users\NCS\source\repos\WindowsCrud\obj\Debug\WindowsCrud.pdb
+X:\Windows-Form-CRUD-App-main\WindowsCrud\bin\Debug\WindowsCrud.exe.config
+X:\Windows-Form-CRUD-App-main\WindowsCrud\bin\Debug\WindowsCrud.exe
+X:\Windows-Form-CRUD-App-main\WindowsCrud\bin\Debug\WindowsCrud.pdb
+X:\Windows-Form-CRUD-App-main\WindowsCrud\obj\Debug\WindowsCrud.csproj.AssemblyReference.cache
+X:\Windows-Form-CRUD-App-main\WindowsCrud\obj\Debug\WindowsCrud.Form1.resources
+X:\Windows-Form-CRUD-App-main\WindowsCrud\obj\Debug\WindowsCrud.Properties.Resources.resources
+X:\Windows-Form-CRUD-App-main\WindowsCrud\obj\Debug\WindowsCrud.csproj.GenerateResource.cache
+X:\Windows-Form-CRUD-App-main\WindowsCrud\obj\Debug\WindowsCrud.csproj.CoreCompileInputs.cache
+X:\Windows-Form-CRUD-App-main\WindowsCrud\obj\Debug\WindowsCrud.exe
+X:\Windows-Form-CRUD-App-main\WindowsCrud\obj\Debug\WindowsCrud.pdb
+J:\Code\programe c#\Windows-Form-CRUD-App-main\WindowsCrud\obj\Debug\WindowsCrud.exe
+J:\Code\programe c#\Windows-Form-CRUD-App-main\WindowsCrud\obj\Debug\WindowsCrud.pdb
